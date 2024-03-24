@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(16, 252, 252);
+}
+#bg-color{
+background-color: #0000ff;
+}
+.border-black{
+    border: 1px solid #000000;
+    color:#000000 ;
+}
